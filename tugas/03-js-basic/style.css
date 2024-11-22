@@ -1,0 +1,21 @@
+.formstyle{
+    border: 2px solid black;
+    border-color: grey;
+    padding: 25px;
+    border-radius: 5px;
+    width: fit-content;
+    margin: auto;
+    display: flex;
+
+}
+
+.inputstyle{
+    margin: 5px;
+}
+
+.btnstyle{
+    margin: 5px;
+    justify-content: center;
+    text-align: center;
+    justify-items: center;
+}

@@ -1,0 +1,20 @@
+1. Link Testcase Spreadsheet 
+https://docs.google.com/spreadsheets/d/1hBRdzborszdpdbqOn2wlGz29p5qnFg5SFclNt_qXgFY/edit?usp=sharing
+
+2. Apa perbedaan dari Regression Testing dan Smoke Testing
+Regression Testing digunakan untuk menguji semua fitur termasuk fitur yang mungkin terdampak ketika ada update atau perbaikan buguntuk memastikan agar tidak ada bug pada fitur 
+ yang berhubungan dengan fitur yang diupdate setelah update dilakukan.
+
+Smoke Testing digunakan untuk menguji fitur utama yang bertujuan untuk memastikan agar tidak ada bug pada fitur utama.
+
+3. Apa perbedaan dari Waterfall dan Agile pada SDLC
+SDLC waterfall adalah sebuah metode dalam pembuatan sebuah projek yang 
+dimana project tersebut melalui beberapa tahapan mulai dari analisis, perancangan, design, 
+impelementasi, testing, dan maintenance secara berurut yang dirancang untuk pembuatan 
+projek secara keseluruhan dan biasanya dilakukan dalam 1-6 bulan dalam setiap prosesnya,
+pada saat menjalankan salah satu proses hanya bisa kembali ke 1 tahap sebelumnya.
+
+Agile adalah sebuah metode dalam pembuatan sebuah projek yang dimana projek tersebut
+dibagi menjadi beberapa sprint kecil, biasanya durasi setiap sprint 1-3minggu. Dalam 1 sprint biasanya hanya mengerjakan 1 fitur
+
+Singkatnya, Waterfall dalam 1 tahap menyelesaikan semua fitur, agile dalam 1 tahap menyelesaikan 1 fitur.

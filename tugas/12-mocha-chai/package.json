@@ -1,0 +1,18 @@
+{
+  "name": "12-mocha-chai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha src/**/*.spec.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3",
+    "mochawesome": "^7.1.3"
+  }
+}
